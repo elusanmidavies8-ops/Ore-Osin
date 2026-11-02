@@ -4,7 +4,7 @@
 
 ## What the name means
 
-*Ọ̀rẹ́ Ọ̀sìn* (written Ore Osin without tone marks) is Yoruba. *Ọ̀rẹ́* means **friend** and *ọ̀sìn* means **pet** (a domestic animal). Together the name reads as **friend of pets**.
+*Ọ̀rẹ́ Ọ̀sìn* (written Ore Osin without tone marks) is a Yoruba word. *Ọ̀rẹ́* means **friend** and *ọ̀sìn* means **pet** (a domestic animal). Together the name reads as **friend of pets**.
 
 The tone-marked form is used in the logo and formal text. Plain Ore Osin is used in running text, file names and web addresses.
 
