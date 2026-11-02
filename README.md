@@ -4,11 +4,15 @@
   <strong>Connecting pet owners. Sharing experiences. Finding loving homes.</strong>
 </p>
 
-Smart Paws is a community-driven platform designed to help pet owners, animal lovers, and prospective adopters connect in a welcoming and supportive environment. The platform brings people together to share stories, exchange pet-care advice, discover meaningful content, and support responsible pet ownership.
+## About the Project
+
+Smart Paws is a community-driven web platform built to help pet owners, animal lovers, and prospective adopters connect in a warm, supportive, and practical space. The platform enables users to share stories, exchange pet-care advice, discover relevant content, and support responsible pet ownership.
+
+At its core, Smart Paws is designed to bring people together around a shared love for animals. Whether users are documenting their pets' daily lives, seeking healthy-care advice, or helping a pet find a safe and loving home, the platform creates a meaningful connection between people and animals.
 
 ## Mission
 
-Our mission is to build a trusted online community where people can connect, learn, and care for pets more thoughtfully. We want to make it easier for pet owners and animal lovers to build relationships, share experiences, and create better outcomes for pets in need of a loving home.
+Our mission is to build a trusted online community where people can connect, learn, and care for pets more thoughtfully. We aim to make it easier for pet owners, animal lovers, and adopters to form relationships, share experiences, and improve outcomes for pets in need of care and companionship.
 
 ## Why Smart Paws?
 
@@ -16,9 +20,19 @@ Pet ownership is more than daily care — it is a shared journey. Smart Paws cre
 
 - connect with other pet owners and enthusiasts,
 - discover useful advice and community insights,
-- celebrate pet milestones and everyday moments,
+- celebrate their pets and everyday moments,
 - support responsible and informed pet care,
-- help pets find safe, loving homes through adoption or rehoming opportunities.
+- help pets find safe and loving homes through rehoming or adoption opportunities.
+
+## Tech Stack
+
+Smart Paws is currently built using:
+
+- HTML — for page structure and content
+- CSS — for modern styling, layout, and responsiveness
+- JavaScript — for interactive features and user experience enhancements
+
+This stack provides a lightweight and accessible foundation for the platform while making it easy to expand as the project grows.
 
 ## Planned Features
 
@@ -32,7 +46,7 @@ Pet ownership is more than daily care — it is a shared journey. Smart Paws cre
 ### Engagement & Discovery
 - Follow system to stay connected with pet owners and communities
 - Discover new content and people within the pet-loving network
-- Encourage interaction through meaningful, relevant community engagement
+- Encourage interaction through meaningful and relevant community engagement
 
 ### Rehoming & Adoption Support
 - Pet rehoming notices to help connect pets with suitable homes
